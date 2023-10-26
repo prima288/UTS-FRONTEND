@@ -1,0 +1,8 @@
+
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/CabinBold.ttf"); font-family : "Cabin"; font-weight : 700;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/SyneRegular.ttf"); font-family : "Syne"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/CabinRegular.ttf"); font-family : "Cabin"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/InterRegular.ttf"); font-family : "Inter"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/InterExtraBold.ttf"); font-family : "Inter"; font-weight : 800;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/InterMedium.ttf"); font-family : "Inter"; font-weight : 500;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/InterBold.ttf"); font-family : "Inter"; font-weight : 700;  }
